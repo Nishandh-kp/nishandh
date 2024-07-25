@@ -19,5 +19,7 @@ I am always open to collaboration and eager to work with others who share a pass
 
 Contact
 Instagram : [nishandh_d8](https://www.instagram.com/nishandh_d8)
-LinkedIn :  [ Nashid TK](https://www.linkedin.com/in/nishandh-kp)
+
+LinkedIn :  [(https://www.linkedin.com/in/nishandh-kp)]
+
 Let's work together to build a safer and greener digital future!
