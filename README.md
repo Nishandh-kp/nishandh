@@ -18,7 +18,7 @@ I specialize in various aspects of cybersecurity, including:
 I am always open to collaboration and eager to work with others who share a passion for cybersecurity and sustainability. If you're interested in collaborating on a project, feel free to reach out!
 
 Contact
-Instagram : [nishandh_d8](https://www.instagram.com/nishandh_d8)
-LinkedIn :  [nishandh](https://www.linkedin.com/in/nishandh-kp)
+Instagram : [Nishandh kp](https://www.instagram.com/nishandh_d8)
+LinkedIn :  [Nishandh kp](https://www.linkedin.com/in/nishandh-kp)
 
 Let's work together to build a safer and greener digital future!
