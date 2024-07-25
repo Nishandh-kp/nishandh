@@ -6,7 +6,6 @@ Hello! I'm nishandh kp, a passionate and dedicated cyber security professional w
 I specialize in various aspects of cybersecurity, including:
 
 • Penetration Testing
-
 • Network Security
 •Incident Response
 •Cyber Threat Intelligence
