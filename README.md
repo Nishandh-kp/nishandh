@@ -5,20 +5,19 @@ Hello! I'm nishandh kp, a passionate and dedicated cyber security professional w
 # About Me
 I specialize in various aspects of cybersecurity, including:
 
-• Penetration 
+   • Penetration 
 
-• Network Security
+   • Network Security
 
-•Incident Response
+   •Incident Response
 
-•Cyber Threat Intelligence
+   •Cyber Threat Intelligence
 
-•Collaboration
+   •Collaboration
 
 I am always open to collaboration and eager to work with others who share a passion for cybersecurity and sustainability. If you're interested in collaborating on a project, feel free to reach out!
 
 Contact
-Instagram : nishandh_d8
-GitHub: Nashid TK
-LinkedIn : Nashid TK
+Instagram : [nishandh_d8](https://www.instagram.com/nishandh_d8)
+LinkedIn :  [ Nashid TK](https://www.linkedin.com/in/nishandh-kp)
 Let's work together to build a safer and greener digital future!
