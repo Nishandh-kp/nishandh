@@ -9,10 +9,6 @@ I specialize in various aspects of cybersecurity, including:
 
    • Network Security
 
-   •Incident Response
-
-   •Cyber Threat Intelligence
-
 # Collaboration
 
 I am always open to collaboration and eager to work with others who share a passion for cybersecurity and sustainability. If you're interested in collaborating on a project, feel free to reach out!
